@@ -1,4 +1,4 @@
-### Hello World 👋 Welcome to Chris Sabb's Github Page
+## Hello World 👋 Welcome to Chris Sabb's Github Page
 
 ```Python
 #!/usr/bin/python
@@ -22,7 +22,7 @@ me.hello_there()
 # 🔭 I’m currently working as a Software Developer Intern at the National Environmental Modeling & Analysis Center
 
 # 🌱 I'm currently orchestrating several machine learning projcts with TensorFlow, Keras, and LangChain, several
-#    data pipelines for up coming Tableau data visualizations, and a ChatGPT API assistant.
+#    data pipelines for several upcoming Tableau data visualizations, and a ChatGPT API assistant.
 
 # 💬 Feel free to reach out. I'm currently seeking 2024 new grad roles in data and machine learning engineering!
 ```
